@@ -1,0 +1,10 @@
+Specific licensing requirements may apply to graphics files in this directory,
+differing from those that apply to the remainder of this repository. See
+details below.
+
+fgas_z_lcdm_models.png
+Source: Cosmology and astrophysics from relaxed galaxy clusters - II. Cosmological constraints.
+A. B.  Mantz, S. W. Allen, R. G. Morris, D. A. Rapetti, D. E. Applegate, P. L. Kelly, A. von der Linden, and R. W. Schmidt. MNRAS, 440:2077, 2014
+http://adsabs.harvard.edu/abs/2014MNRAS.440.2077M
+Copyright holder Adam Mantz has granted permission to use and distribute 
+with attribution.
